@@ -1,0 +1,41 @@
+
+VM Users:
+user Root: Usuario01
+Psw: Passw0rd&001
+user: wordpress
+Psw: Passw0rd&003
+
+MySQL DB
+root password: Passw0rd&005
+DB Name: wordpress
+User: wordpressuser
+Psw: test-password
+
+WORDPRESS SITE
+Site Title: Azure WP Site
+Username: WPUsuario01
+Psw: Passw0rd&004
+Email: julianesco00@hotmail.com
+
+AZURE MySQL
+Server: wpmysql01
+Admi: admdb01
+psw: Passw0rd&005
+
+MariaDB Database
+Server: aze11wordpress-srv
+DB Name: wordpressdb
+Admin: admdb01
+psw: Passw0rd&005
+
+Azure Blob Storage SAS
+Contenedor: wpblobstorage01
+URI: https://wpstorageacc01.blob.core.windows.net/wpblobstorage01?st=2020-02-07T15%3A46%3A11Z&se=2020-02-08T15%3A46%3A11Z&sp=racwdl&sv=2018-03-28&sr=c&sig=mZSE%2F2NwTLtk5c21staPPIDTrgG0w3K%2BO0QBZDS71lM%3D
+Cadena consulta: ?st=2020-02-07T15%3A46%3A11Z&se=2020-02-08T15%3A46%3A11Z&sp=racwdl&sv=2018-03-28&sr=c&sig=mZSE%2F2NwTLtk5c21staPPIDTrgG0w3K%2BO0QBZDS71lM%3D
+
+Storage Account:
+Contenedor: wpblobstorage01
+
+
+
+
